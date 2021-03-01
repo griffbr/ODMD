@@ -19,7 +19,7 @@ Please cite our paper if you find it useful for your research.
 
 __CVPR 2021 Supplementary Video:__ https://youtu.be/GruhbdJ2l7k
 
-[![IMAGE ALT TEXT HERE](./figure/title_ODMD_supplementary_video.jpg)](https://youtu.be/GruhbdJ2l7k)
+[![IMAGE ALT TEXT HERE](./figure/title_ODMD_supplementary_video.jpeg)](https://youtu.be/GruhbdJ2l7k)
 
 ## Use
 
