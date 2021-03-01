@@ -4,7 +4,7 @@ ODMD is the first dataset for learning **O**bject **D**epth via **M**otion and *
 Contact: Brent Griffin (griffb at umich dot edu)
 
 __Depth Results using a Camera Phone.__
-![alt text](https://github.com/griffbr/ODMD/blob/master/figure/example_ODMD_phone_results.jpg "Depth Results using a Camera Phone")
+![alt text](https://github.com/griffbr/ODMD/blob/master/figure/example_ODMD_phone_results.jpg?raw=true "Depth Results using a Camera Phone")
 
 ## Publication
 Please cite our paper if you find it useful for your research.
