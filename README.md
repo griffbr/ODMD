@@ -3,19 +3,23 @@ ODMD is the first dataset for learning **O**bject **D**epth via **M**otion and *
 
 Contact: Brent Griffin (griffb at umich dot edu)
 
-__Depth Results using a Camera Phone.__
-![alt text](./figure/example_ODMD_phone_results.jpg?raw=true "Depth Results using a Camera Phone")
+__Depth results using a camera phone.__
+![alt text](./figure/example_ODMD_phone_results.jpg?raw=true "Depth results using a camera phone")
 
 ## Publication
 Please cite our paper if you find it useful for your research.
 ```
 @inproceedings{GrCoCVPR21,
   author = {Griffin, Brent A. and Corso, Jason J.},
-  booktitle={The European Conference on Computer Vision (CVPR)},
+  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   title = {Depth from Camera Motion and Object Detection},
   year = {2021}
 }
 ```
+
+__CVPR 2021 Supplementary Video:__ https://youtu.be/GruhbdJ2l7k
+
+[![IMAGE ALT TEXT HERE](https://youtu.be/GruhbdJ2l7k/0.jpg)](https://youtu.be/GruhbdJ2l7k)
 
 ## Use
 
