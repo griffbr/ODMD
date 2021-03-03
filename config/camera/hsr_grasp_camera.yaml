@@ -1,0 +1,6 @@
+camera_name: HSR Grasp Camera
+image_dim: [480,640]
+fx: 205.5
+fy: 205.5
+cx: 320.5
+cy: 240.5

@@ -1,0 +1,11 @@
+data_description: Z motion for ODMS
+z_lim: [0.55,1]
+move_max: [0.25,0.175,0.325]
+size_lim: [0.01,0.175]
+move_min: [0,0,0.05]
+num_pos: 10
+perturb: True
+std_dev: 0.001
+cam_dev: 0.01
+shuffle: 0.1
+end_swap: True
