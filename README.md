@@ -12,8 +12,9 @@ __Run__ ``./demo/demo_datagen.py`` to generate random ODMD data to train your mo
 Example training data and camera configurations are provided in the ``./config/`` folder. demo_datagen.py has the option to save data into a static dataset. <br />
 [native Python]
 
-__Run__ ``./demo/demo_dataset_eval.py`` to evaluate your model on the ODMD (or detection-based ODMS) validation and test sets. <br />
-Provides an example evaluation for the Box<sub>LS</sub> baseline. Results are saved in the ``./results/`` folder. <br />
+__Run__ ``./demo/demo_dataset_eval.py`` to evaluate your model on the ODMD validation and test sets. <br />
+We provide an example evaluation for the Box<sub>LS</sub> baseline and include instructions for using our detection-based version of [ODMS](https://github.com/griffbr/ODMS). 
+Results are saved in the ``./results/`` folder. <br />
 [native Python]
 
 ## Publication
