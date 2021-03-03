@@ -24,12 +24,12 @@ odmd_data.initialize_data_gen(camera_config)
 # Generate examples for ODMS training (repeat for each training iteration).
 bb_3D, bb = odmd_data.generate_object_examples(n_examples)
 bb_3D, bb = odmd.data_gen.add_perturbations(bb_3D, bb, odmd_data)
-bboxes, camera_movents, depths = odmd.data_gen.bb_to_inputs(bb_3D, bb, 
+bboxes, camera_movements, depths = odmd.data_gen.bb_to_inputs(bb_3D, bb, 
 															odmd_data.num_pos)
 
 """
 Use generated data to train your own network to predict depths given bboxes 
-and camera_movents. See paper for ideas on possible initial configurations.
+and camera_movements. See paper for ideas on possible initial configurations.
 """
 
 # Save generated examples as a static dataset (optional).

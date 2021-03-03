@@ -35,7 +35,7 @@ def camera_move_perturbation(bb_3D, cam_dev):
 	bb_3D["camera_movement"] += dev
 	return bb_3D
 
-def bb_to_inputs(bb_3D, bb, n_obs):
+def bb_to_inputs(bb_3D, bb, n_obs=10):
 	# Prepare input data based on the number of observations used.
 	idx = np.round(np.linspace(0, bb_3D["n_positions"]-1, n_obs)).astype("int") 
 	input_bb = np.array(bb["bboxes"])[idx,:-1]	
