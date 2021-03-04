@@ -1,0 +1,11 @@
+model_name: DBox
+params:
+  hidden_sz: 128
+  input_obs: 1
+  fcs: [256,256,256,256,256,256]
+  fc_drop: 0
+  peep: True
+  all_loss: False
+prediction: normalized
+sequence_in: True
+sequence_dist: True

@@ -1,0 +1,4 @@
+batch_size: 512
+train_iter: 100000
+n_display: 1000
+n_train_model_saves: 10

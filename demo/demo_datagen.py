@@ -21,7 +21,7 @@ set_name = "example_data_gen"
 odmd_data = odmd.data_gen.DataGenerator(datagen_config)
 odmd_data.initialize_data_gen(camera_config)
 
-# Generate examples for ODMS training (repeat for each training iteration).
+# Generate examples for ODMD training (repeat for each training iteration).
 bb_3D, bb = odmd_data.generate_object_examples(n_examples)
 bb_3D, bb = odmd.data_gen.add_perturbations(bb_3D, bb, odmd_data)
 bboxes, camera_movements, depths = odmd.data_gen.bb_to_inputs(bb_3D, bb, 
