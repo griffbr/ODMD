@@ -9,6 +9,7 @@ sys.path.insert(0,"../")
 import odmd, dbox
 
 net_name = "DBox_demo"
+#net_name = "DBox_pretrained" # Uncomment to run DBox model from paper.
 model_idx = -1 # Can cycle through indices to find best validation performance.
 
 # Select dataset to evaluate.
