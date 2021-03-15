@@ -34,7 +34,7 @@ __Run__ ``./demo/demo_dataset_DBox_train.py`` to train your own DBox model using
 __Run__ ``./demo/demo_dataset_DBox_eval.py`` after training to evaluate your DBox model. <br />
 Example training and DBox model configurations are provided in the ``./config/`` folder.
 Models are saved in the ``./results/model/`` folder. 
-``demo_dataset_DBox_eval.py`` also has instructions for testing the pretrained DBox model from our paper. <br />
+``demo_dataset_DBox_eval.py`` also has instructions to use our pretrained DBox model from our paper. <br />
 [native Python, has Torch dependency]
 
 ## Publication

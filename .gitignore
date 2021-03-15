@@ -2,3 +2,4 @@
 *.pyc
 *.swp
 /data/example_generated_data/
+/results/*
