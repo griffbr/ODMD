@@ -48,9 +48,9 @@ Please cite our [paper](https://arxiv.org/abs/2103.01468 "Depth from Camera Moti
 }
 ```
 
-__CVPR 2021 supplementary video:__ https://youtu.be/GruhbdJ2l7k
+__CVPR 2021 presentation video:__ https://youtu.be/38Qqh6yYdVY
 
-[![IMAGE ALT TEXT HERE](./figure/title_ODMD_supplementary_video.jpeg)](https://youtu.be/GruhbdJ2l7k)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/38Qqh6yYdVY/0.jpg)](https://youtu.be/38Qqh6yYdVY)
 
 ## Use
 
