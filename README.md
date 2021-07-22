@@ -38,7 +38,7 @@ Models are saved in the ``./results/model/`` folder.
 [native Python, has Torch dependency]
 
 ## Publication
-Please cite our [paper](https://arxiv.org/abs/2103.01468 "Depth from Camera Motion and Object Detection pdf") if you find it useful for your research.
+Please cite our [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Griffin_Depth_From_Camera_Motion_and_Object_Detection_CVPR_2021_paper.html "Depth from Camera Motion and Object Detection pdf") if you find it useful for your research.
 ```
 @inproceedings{GrCoCVPR21,
   author = {Griffin, Brent A. and Corso, Jason J.},
