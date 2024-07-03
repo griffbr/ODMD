@@ -1,4 +1,4 @@
-data_description: Z motion for ODMS
+data_description: XYZ motion based on robot-collected data
 z_lim: [0.55,1]
 move_max: [0.25,0.175,0.325]
 size_lim: [0.01,0.175]
