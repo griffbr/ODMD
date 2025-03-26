@@ -48,9 +48,9 @@ Please cite our [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Grif
 }
 ```
 
-__CVPR 2021 presentation video:__ https://youtu.be/38Qqh6yYdVY
+__CVPR 2021 presentation video:__ https://youtu.be/bgEGjt9NU9w
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/38Qqh6yYdVY/0.jpg)](https://youtu.be/38Qqh6yYdVY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bgEGjt9NU9w/0.jpg)](https://youtu.be/bgEGjt9NU9w)
 
 ## Use
 
